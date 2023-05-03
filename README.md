@@ -13,3 +13,7 @@ Repro
 9. expand and collapse the cards a few times
 
 
+
+
+https://user-images.githubusercontent.com/12834184/235811661-60d7cf9f-b697-44bb-ab22-00cd24887766.mp4
+
